@@ -17,10 +17,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.tingmon.workman",
+      "buildNumber": "1.0.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "android": {
+      "package": "com.tingmon.workman",
+      "versionCode": 1
+    },
+    "description": ""
   }
 }
